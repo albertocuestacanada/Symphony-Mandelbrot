@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lib/commons-math-2.1.jar lib/JavaSoamApi.jar
+
+
+
+

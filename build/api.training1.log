@@ -1,0 +1,2 @@
+2011-08-03 16:43:55.035 GMT Standard Time INFO [2252:3640] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [04221C20].
+2011-08-03 16:43:55.040 GMT Standard Time INFO [2252:3640] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [04221C20].

@@ -1,0 +1,358 @@
+2011-07-27 10:50:54.156 GMT Standard Time INFO [5152:5660] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A5CB8].
+2011-07-27 10:50:54.187 GMT Standard Time INFO [5152:5660] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A5CB8].
+2011-07-27 10:50:54.234 GMT Standard Time ERROR [5152:5660] api.base.actions.BaseAction - Domain <Application>: Application SymMandelbrot does not exist. This application is not registered. {(0xc80061b7:1, 8, 25015)@(SdSsmManager.cpp:596)}
+2011-07-27 11:00:58.984 GMT Standard Time INFO [4724:5964] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A5CB8].
+2011-07-27 11:00:59.015 GMT Standard Time INFO [4724:5964] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A5CB8].
+2011-07-27 11:04:55.187 GMT Standard Time INFO [6012:4212] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A5C90].
+2011-07-27 11:04:55.218 GMT Standard Time INFO [6012:4212] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A5C90].
+2011-07-27 11:06:21.296 GMT Standard Time INFO [5836:148] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A5D20].
+2011-07-27 11:06:21.328 GMT Standard Time INFO [5836:148] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A5D20].
+2011-07-27 11:14:11.234 GMT Standard Time INFO [4172:4852] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A7E68].
+2011-07-27 11:14:11.265 GMT Standard Time INFO [4172:4852] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A7E68].
+2011-07-27 11:17:52.265 GMT Standard Time INFO [5904:2936] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A5DB0].
+2011-07-27 11:17:52.296 GMT Standard Time INFO [5904:2936] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A5DB0].
+2011-07-27 11:33:40.156 GMT Standard Time INFO [5204:4556] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A5CB8].
+2011-07-27 11:33:40.187 GMT Standard Time INFO [5204:4556] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A5CB8].
+2011-07-27 11:34:01.609 GMT Standard Time ERROR [5204:1204] api.base.OutstandingFetchRequest - Domain <Application>: Cannot operate on session 6 : Terminated by user <Admin>.  {(0x86004e73:1, 6, 20083)@(SoamBaseSession.cpp : 2123)}
+2011-07-27 11:48:29.843 GMT Standard Time INFO [4352:5108] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A5CB8].
+2011-07-27 11:48:29.859 GMT Standard Time INFO [4352:5108] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A5CB8].
+2011-07-27 11:49:15.937 GMT Standard Time ERROR [4352:4900] api.base.OutstandingFetchRequest - Domain <Application>: Cannot operate on session 101 : Terminated by user <Admin>.  {(0x86004e73:1, 6, 20083)@(SoamBaseSession.cpp : 2123)}
+2011-07-27 11:54:50.828 GMT Standard Time INFO [4352:5936] api.base.ConnectionManager - Domain <SOAM>: A disconnection from the Middleware was sensed. The connection to "dev-apama:2373" was broken.
+2011-07-27 12:21:18.437 GMT Standard Time INFO [2568:2184] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [003A7C38].
+2011-07-27 12:21:18.468 GMT Standard Time INFO [2568:2184] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [003A7C38].
+2011-07-27 12:21:44.968 GMT Standard Time ERROR [2568:3720] api.base.OutstandingFetchRequest - Domain <Application>: Cannot operate on session 301 : Terminated by user <Admin>.  {(0x86004e73:1, 6, 20083)@(SoamBaseSession.cpp : 2123)}
+2011-07-27 13:58:57.765 GMT Standard Time INFO [1060:2320] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F9AF68].
+2011-07-27 13:58:57.796 GMT Standard Time INFO [1060:2320] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F9AF68].
+2011-07-27 15:09:59.125 GMT Standard Time INFO [4812:4780] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02FA5068].
+2011-07-27 15:09:59.125 GMT Standard Time INFO [4812:4780] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02FA5068].
+2011-07-27 15:10:45.687 GMT Standard Time ERROR [4812:4936] api.base.OutstandingFetchRequest - Domain <Application>: Cannot operate on session 2 : Terminated by user <>.  {(0x86004e73:1, 6, 20083)@(SoamBaseSession.cpp : 2123)}
+2011-07-27 15:11:22.109 GMT Standard Time INFO [4812:4928] api.base.ConnectionManager - Domain <SOAM>: A disconnection from the Middleware was sensed. The connection to "dev-apama:1479" was broken.
+2011-07-27 15:12:33.937 GMT Standard Time INFO [5528:5568] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02FA53D0].
+2011-07-27 15:12:33.937 GMT Standard Time INFO [5528:5568] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02FA53D0].
+2011-07-27 15:17:03.343 GMT Standard Time INFO [4192:3672] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F9AF68].
+2011-07-27 15:17:03.343 GMT Standard Time INFO [4192:3672] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F9AF68].
+2011-07-27 15:54:01.828 GMT Standard Time INFO [4376:1496] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C3A8].
+2011-07-27 15:54:01.828 GMT Standard Time INFO [4376:1496] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C3A8].
+2011-07-27 16:28:18.500 GMT Standard Time INFO [5708:5640] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 16:28:18.500 GMT Standard Time INFO [5708:5640] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 16:30:15.062 GMT Standard Time INFO [5432:5040] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1D998].
+2011-07-27 16:30:15.062 GMT Standard Time INFO [5432:5040] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1D998].
+2011-07-27 16:38:52.593 GMT Standard Time INFO [2292:5828] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 16:38:52.593 GMT Standard Time INFO [2292:5828] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 16:47:02.609 GMT Standard Time INFO [4904:4876] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F193C0].
+2011-07-27 16:47:02.609 GMT Standard Time INFO [4904:4876] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F193C0].
+2011-07-27 16:47:24.000 GMT Standard Time INFO [5308:4964] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 16:47:24.000 GMT Standard Time INFO [5308:4964] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 16:48:24.875 GMT Standard Time INFO [6056:1220] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 16:48:24.875 GMT Standard Time INFO [6056:1220] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 16:54:14.171 GMT Standard Time INFO [4824:5684] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02EC7FE0].
+2011-07-27 16:54:14.171 GMT Standard Time INFO [4824:5684] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02EC7FE0].
+2011-07-27 17:07:07.734 GMT Standard Time INFO [2304:5212] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 17:07:07.734 GMT Standard Time INFO [2304:5212] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 17:10:32.859 GMT Standard Time INFO [5180:3768] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 17:10:32.859 GMT Standard Time INFO [5180:3768] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 17:11:25.171 GMT Standard Time INFO [5568:6132] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 17:11:25.171 GMT Standard Time INFO [5568:6132] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 17:13:15.656 GMT Standard Time INFO [4132:5192] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 17:13:15.656 GMT Standard Time INFO [4132:5192] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 17:14:18.062 GMT Standard Time INFO [4164:5248] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F193C0].
+2011-07-27 17:14:18.062 GMT Standard Time INFO [4164:5248] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F193C0].
+2011-07-27 17:19:29.625 GMT Standard Time INFO [4364:3328] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C110].
+2011-07-27 17:19:29.625 GMT Standard Time INFO [4364:3328] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C110].
+2011-07-27 17:21:21.343 GMT Standard Time INFO [600:5472] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1BF08].
+2011-07-27 17:21:21.343 GMT Standard Time INFO [600:5472] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1BF08].
+2011-07-27 17:27:01.531 GMT Standard Time INFO [5884:2932] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C180].
+2011-07-27 17:27:01.546 GMT Standard Time INFO [5884:2932] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C180].
+2011-07-27 17:27:34.437 GMT Standard Time INFO [3980:3056] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1B460].
+2011-07-27 17:27:34.437 GMT Standard Time INFO [3980:3056] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1B460].
+2011-07-27 17:30:34.750 GMT Standard Time INFO [1900:5324] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C048].
+2011-07-27 17:30:34.750 GMT Standard Time INFO [1900:5324] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C048].
+2011-07-28 09:12:49.453 GMT Standard Time INFO [5756:4792] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02EC9588].
+2011-07-28 09:12:49.468 GMT Standard Time INFO [5756:4792] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02EC9588].
+2011-07-28 09:34:47.156 GMT Standard Time INFO [6068:5076] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C378].
+2011-07-28 09:34:47.156 GMT Standard Time INFO [6068:5076] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C378].
+2011-07-28 09:47:49.093 GMT Standard Time INFO [4112:4644] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F11F60].
+2011-07-28 09:47:49.093 GMT Standard Time INFO [4112:4644] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F11F60].
+2011-07-28 09:49:09.265 GMT Standard Time INFO [3256:4740] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02EC54B8].
+2011-07-28 09:49:09.265 GMT Standard Time INFO [3256:4740] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02EC54B8].
+2011-07-28 09:49:56.187 GMT Standard Time INFO [1992:3760] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F240F0].
+2011-07-28 09:49:56.187 GMT Standard Time INFO [1992:3760] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F240F0].
+2011-07-28 09:50:35.734 GMT Standard Time INFO [5684:4980] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170F1780].
+2011-07-28 09:50:35.734 GMT Standard Time INFO [5684:4980] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170F1780].
+2011-07-28 09:53:05.109 GMT Standard Time INFO [760:4068] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170C69E0].
+2011-07-28 09:53:05.109 GMT Standard Time INFO [760:4068] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170C69E0].
+2011-07-28 09:53:39.062 GMT Standard Time INFO [1984:5848] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F11F60].
+2011-07-28 09:53:39.062 GMT Standard Time INFO [1984:5848] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F11F60].
+2011-07-28 10:05:32.531 GMT Standard Time INFO [2392:4932] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02EC54B8].
+2011-07-28 10:05:32.531 GMT Standard Time INFO [2392:4932] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02EC54B8].
+2011-07-28 10:05:45.625 GMT Standard Time INFO [5140:5424] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C3D0].
+2011-07-28 10:05:45.625 GMT Standard Time INFO [5140:5424] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C3D0].
+2011-07-28 10:06:13.484 GMT Standard Time INFO [144:4184] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F35FA8].
+2011-07-28 10:06:13.484 GMT Standard Time INFO [144:4184] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F35FA8].
+2011-07-28 10:08:50.531 GMT Standard Time INFO [5384:4292] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F11F60].
+2011-07-28 10:08:50.531 GMT Standard Time INFO [5384:4292] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F11F60].
+2011-07-28 10:13:01.187 GMT Standard Time INFO [5920:2612] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C048].
+2011-07-28 10:13:01.187 GMT Standard Time INFO [5920:2612] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C048].
+2011-07-28 10:13:56.234 GMT Standard Time INFO [5272:4264] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F11F68].
+2011-07-28 10:13:56.234 GMT Standard Time INFO [5272:4264] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F11F68].
+2011-07-28 11:05:52.125 GMT Standard Time INFO [4052:5488] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F11E58].
+2011-07-28 11:05:52.125 GMT Standard Time INFO [4052:5488] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F11E58].
+2011-07-28 11:09:41.578 GMT Standard Time INFO [5516:3328] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170D0370].
+2011-07-28 11:09:41.578 GMT Standard Time INFO [5516:3328] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170D0370].
+2011-07-28 11:13:56.375 GMT Standard Time INFO [4872:5832] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170D8410].
+2011-07-28 11:13:56.375 GMT Standard Time INFO [4872:5832] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170D8410].
+2011-07-28 11:20:19.015 GMT Standard Time INFO [1564:4004] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170C8030].
+2011-07-28 11:20:19.015 GMT Standard Time INFO [1564:4004] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170C8030].
+2011-07-28 11:23:32.515 GMT Standard Time INFO [4312:4600] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C128].
+2011-07-28 11:23:32.515 GMT Standard Time INFO [4312:4600] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C128].
+2011-07-28 11:38:41.156 GMT Standard Time INFO [432:5520] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170C4978].
+2011-07-28 11:38:41.156 GMT Standard Time INFO [432:5520] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170C4978].
+2011-07-28 11:41:45.156 GMT Standard Time INFO [2308:4772] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170D8450].
+2011-07-28 11:41:45.156 GMT Standard Time INFO [2308:4772] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170D8450].
+2011-07-28 11:45:29.312 GMT Standard Time INFO [4148:2576] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [1714FCE0].
+2011-07-28 11:45:29.312 GMT Standard Time INFO [4148:2576] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [1714FCE0].
+2011-07-28 11:48:26.609 GMT Standard Time INFO [4840:5556] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [1714FA80].
+2011-07-28 11:48:26.609 GMT Standard Time INFO [4840:5556] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [1714FA80].
+2011-07-28 11:49:45.000 GMT Standard Time INFO [5072:4764] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1C128].
+2011-07-28 11:49:45.000 GMT Standard Time INFO [5072:4764] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1C128].
+2011-07-28 11:50:54.296 GMT Standard Time INFO [4084:5232] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F11E58].
+2011-07-28 11:50:54.296 GMT Standard Time INFO [4084:5232] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F11E58].
+2011-07-28 11:54:37.875 GMT Standard Time INFO [2940:5088] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F11E58].
+2011-07-28 11:54:37.875 GMT Standard Time INFO [2940:5088] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F11E58].
+2011-07-28 12:15:08.703 GMT Standard Time INFO [4016:1584] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F23838].
+2011-07-28 12:15:08.703 GMT Standard Time INFO [4016:1584] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F23838].
+2011-07-28 12:15:36.140 GMT Standard Time INFO [5292:4288] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02ED1768].
+2011-07-28 12:15:36.140 GMT Standard Time INFO [5292:4288] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02ED1768].
+2011-07-28 12:24:23.968 GMT Standard Time INFO [4856:5212] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170D84D0].
+2011-07-28 12:24:23.968 GMT Standard Time INFO [4856:5212] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170D84D0].
+2011-07-28 12:30:59.953 GMT Standard Time INFO [5852:2308] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170C8D00].
+2011-07-28 12:30:59.953 GMT Standard Time INFO [5852:2308] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170C8D00].
+2011-07-28 12:35:02.734 GMT Standard Time INFO [4100:4708] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170D0E38].
+2011-07-28 12:35:02.734 GMT Standard Time INFO [4100:4708] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170D0E38].
+2011-07-28 12:37:17.593 GMT Standard Time INFO [2372:5848] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F23550].
+2011-07-28 12:37:17.593 GMT Standard Time INFO [2372:5848] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F23550].
+2011-07-28 12:41:33.750 GMT Standard Time INFO [5944:2020] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F23838].
+2011-07-28 12:41:33.750 GMT Standard Time INFO [5944:2020] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F23838].
+2011-07-28 14:48:28.875 GMT Standard Time INFO [4664:2588] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F23838].
+2011-07-28 14:48:28.875 GMT Standard Time INFO [4664:2588] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F23838].
+2011-07-28 14:52:24.906 GMT Standard Time INFO [4152:4172] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AA68].
+2011-07-28 14:52:24.906 GMT Standard Time INFO [4152:4172] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AA68].
+2011-07-28 14:52:45.718 GMT Standard Time INFO [4708:3904] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AA68].
+2011-07-28 14:52:45.718 GMT Standard Time INFO [4708:3904] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AA68].
+2011-07-28 14:54:17.406 GMT Standard Time INFO [5492:5124] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F12C90].
+2011-07-28 14:54:17.406 GMT Standard Time INFO [5492:5124] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F12C90].
+2011-07-28 15:03:12.687 GMT Standard Time INFO [6028:1392] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AA68].
+2011-07-28 15:03:12.687 GMT Standard Time INFO [6028:1392] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AA68].
+2011-07-28 15:03:31.625 GMT Standard Time INFO [2916:5988] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AA68].
+2011-07-28 15:03:31.625 GMT Standard Time INFO [2916:5988] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AA68].
+2011-07-28 15:05:33.406 GMT Standard Time INFO [332:5676] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AD70].
+2011-07-28 15:05:33.406 GMT Standard Time INFO [332:5676] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AD70].
+2011-07-28 15:29:18.562 GMT Standard Time INFO [5940:3984] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F236C0].
+2011-07-28 15:29:18.562 GMT Standard Time INFO [5940:3984] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F236C0].
+2011-07-28 15:30:34.109 GMT Standard Time INFO [3904:348] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F236C0].
+2011-07-28 15:30:34.109 GMT Standard Time INFO [3904:348] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F236C0].
+2011-07-28 16:00:56.125 GMT Standard Time INFO [1148:5120] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F236C0].
+2011-07-28 16:00:56.125 GMT Standard Time INFO [1148:5120] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F236C0].
+2011-07-28 16:08:19.203 GMT Standard Time INFO [5732:5560] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1DC58].
+2011-07-28 16:08:19.203 GMT Standard Time INFO [5732:5560] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1DC58].
+2011-07-28 16:08:48.328 GMT Standard Time INFO [5732:5788] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "4" was "500".
+2011-07-28 16:08:48.328 GMT Standard Time INFO [5732:5788] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "3" was "500".
+2011-07-28 16:08:48.328 GMT Standard Time INFO [5732:5788] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "2" was "500".
+2011-07-28 16:08:48.343 GMT Standard Time INFO [5732:5788] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "1" was "500".
+2011-07-29 09:55:37.078 GMT Standard Time INFO [1928:6128] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F18480].
+2011-07-29 09:55:37.093 GMT Standard Time INFO [1928:6128] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F18480].
+2011-07-29 09:56:01.468 GMT Standard Time INFO [5684:5856] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F18480].
+2011-07-29 09:56:01.468 GMT Standard Time INFO [5684:5856] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F18480].
+2011-07-29 10:39:17.875 GMT Standard Time INFO [5920:2608] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F23318].
+2011-07-29 10:39:17.875 GMT Standard Time INFO [5920:2608] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F23318].
+2011-07-29 11:00:21.000 GMT Standard Time INFO [5972:5428] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2BFD0].
+2011-07-29 11:00:21.000 GMT Standard Time INFO [5972:5428] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2BFD0].
+2011-07-29 11:00:48.468 GMT Standard Time INFO [5648:5756] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E100].
+2011-07-29 11:00:48.484 GMT Standard Time INFO [5648:5756] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E100].
+2011-07-29 11:09:27.109 GMT Standard Time INFO [3760:6028] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E4A8].
+2011-07-29 11:09:27.109 GMT Standard Time INFO [3760:6028] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E4A8].
+2011-07-29 11:10:26.734 GMT Standard Time INFO [5336:5372] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F22B98].
+2011-07-29 11:10:26.734 GMT Standard Time INFO [5336:5372] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F22B98].
+2011-07-29 11:12:00.750 GMT Standard Time INFO [4332:2076] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21C40].
+2011-07-29 11:12:00.750 GMT Standard Time INFO [4332:2076] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21C40].
+2011-07-29 11:13:41.171 GMT Standard Time INFO [1992:1232] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E4A8].
+2011-07-29 11:13:41.171 GMT Standard Time INFO [1992:1232] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E4A8].
+2011-07-29 11:14:49.953 GMT Standard Time INFO [4892:4896] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1A660].
+2011-07-29 11:14:49.953 GMT Standard Time INFO [4892:4896] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1A660].
+2011-07-29 11:16:12.875 GMT Standard Time INFO [432:5984] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E620].
+2011-07-29 11:16:12.875 GMT Standard Time INFO [432:5984] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E620].
+2011-07-29 11:18:38.296 GMT Standard Time INFO [4804:3976] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2AFD0].
+2011-07-29 11:18:38.296 GMT Standard Time INFO [4804:3976] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2AFD0].
+2011-07-29 11:22:14.390 GMT Standard Time INFO [3092:5956] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21C90].
+2011-07-29 11:22:14.390 GMT Standard Time INFO [3092:5956] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21C90].
+2011-07-29 11:22:48.500 GMT Standard Time INFO [2916:5916] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E0D8].
+2011-07-29 11:22:48.500 GMT Standard Time INFO [2916:5916] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E0D8].
+2011-07-29 11:28:30.671 GMT Standard Time INFO [5192:4160] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E100].
+2011-07-29 11:28:30.671 GMT Standard Time INFO [5192:4160] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E100].
+2011-07-29 11:29:45.812 GMT Standard Time INFO [5908:2940] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E0B0].
+2011-07-29 11:29:45.812 GMT Standard Time INFO [5908:2940] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E0B0].
+2011-07-29 11:30:25.531 GMT Standard Time INFO [5112:4588] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F27550].
+2011-07-29 11:30:25.531 GMT Standard Time INFO [5112:4588] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F27550].
+2011-07-29 11:32:26.640 GMT Standard Time INFO [6032:5764] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21C10].
+2011-07-29 11:32:26.656 GMT Standard Time INFO [6032:5764] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21C10].
+2011-07-29 11:33:54.171 GMT Standard Time INFO [5564:2608] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [171444E0].
+2011-07-29 11:33:54.171 GMT Standard Time INFO [5564:2608] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [171444E0].
+2011-07-29 11:34:21.062 GMT Standard Time INFO [5624:4988] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E100].
+2011-07-29 11:34:21.062 GMT Standard Time INFO [5624:4988] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E100].
+2011-07-29 11:34:30.921 GMT Standard Time INFO [5020:5344] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [1714C6D8].
+2011-07-29 11:34:30.921 GMT Standard Time INFO [5020:5344] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [1714C6D8].
+2011-07-29 11:36:33.078 GMT Standard Time INFO [988:3788] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170D5610].
+2011-07-29 11:36:33.078 GMT Standard Time INFO [988:3788] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170D5610].
+2011-07-29 11:37:22.703 GMT Standard Time INFO [1424:5596] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170CFCB8].
+2011-07-29 11:37:22.703 GMT Standard Time INFO [1424:5596] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170CFCB8].
+2011-07-29 11:38:46.921 GMT Standard Time INFO [5296:5104] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [170D54E0].
+2011-07-29 11:38:46.921 GMT Standard Time INFO [5296:5104] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [170D54E0].
+2011-07-29 11:39:11.781 GMT Standard Time INFO [2308:2592] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21378].
+2011-07-29 11:39:11.781 GMT Standard Time INFO [2308:2592] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21378].
+2011-07-29 11:39:46.265 GMT Standard Time INFO [5648:2892] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F27640].
+2011-07-29 11:39:46.265 GMT Standard Time INFO [5648:2892] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F27640].
+2011-07-29 11:41:06.625 GMT Standard Time INFO [5500:2552] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F214B8].
+2011-07-29 11:41:06.625 GMT Standard Time INFO [5500:2552] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F214B8].
+2011-07-29 11:41:32.031 GMT Standard Time INFO [5492:4484] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21C10].
+2011-07-29 11:41:32.031 GMT Standard Time INFO [5492:4484] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21C10].
+2011-07-29 11:44:56.656 GMT Standard Time INFO [2616:5724] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1EE08].
+2011-07-29 11:44:56.656 GMT Standard Time INFO [2616:5724] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1EE08].
+2011-07-29 11:47:19.562 GMT Standard Time INFO [2348:5576] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1EE08].
+2011-07-29 11:47:19.562 GMT Standard Time INFO [2348:5576] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1EE08].
+2011-07-29 11:47:26.765 GMT Standard Time INFO [2348:5556] api.base.ConnectionManager - Domain <SOAM>: A disconnection from the Middleware was sensed. The connection to "dev-apama:2312" was broken.
+2011-07-29 12:00:06.078 GMT Standard Time INFO [4388:1148] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E398].
+2011-07-29 12:00:06.078 GMT Standard Time INFO [4388:1148] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E398].
+2011-07-29 12:16:32.312 GMT Standard Time INFO [5272:5684] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21778].
+2011-07-29 12:16:32.312 GMT Standard Time INFO [5272:5684] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21778].
+2011-07-29 12:19:29.875 GMT Standard Time INFO [5304:5620] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E260].
+2011-07-29 12:19:29.875 GMT Standard Time INFO [5304:5620] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E260].
+2011-07-29 12:21:48.906 GMT Standard Time INFO [4544:4524] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F229F0].
+2011-07-29 12:21:48.906 GMT Standard Time INFO [4544:4524] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F229F0].
+2011-07-29 12:22:22.312 GMT Standard Time INFO [6080:5320] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AF80].
+2011-07-29 12:22:22.312 GMT Standard Time INFO [6080:5320] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AF80].
+2011-07-29 12:23:23.421 GMT Standard Time INFO [5652:4288] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E460].
+2011-07-29 12:23:23.421 GMT Standard Time INFO [5652:4288] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E460].
+2011-07-29 12:23:50.953 GMT Standard Time INFO [5652:5740] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "40" was "700".
+2011-07-29 12:23:50.953 GMT Standard Time INFO [5652:5740] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "39" was "700".
+2011-07-29 12:35:57.375 GMT Standard Time INFO [5552:2744] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AF80].
+2011-07-29 12:35:57.375 GMT Standard Time INFO [5552:2744] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AF80].
+2011-07-29 12:36:56.703 GMT Standard Time INFO [5356:1524] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E668].
+2011-07-29 12:36:56.703 GMT Standard Time INFO [5356:1524] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E668].
+2011-07-29 12:38:15.625 GMT Standard Time INFO [1988:348] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21C18].
+2011-07-29 12:38:15.625 GMT Standard Time INFO [1988:348] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21C18].
+2011-07-29 12:38:33.718 GMT Standard Time INFO [4808:5844] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E0E0].
+2011-07-29 12:38:33.718 GMT Standard Time INFO [4808:5844] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E0E0].
+2011-07-29 12:39:23.546 GMT Standard Time INFO [5344:4632] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2AC58].
+2011-07-29 12:39:23.562 GMT Standard Time INFO [5344:4632] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2AC58].
+2011-07-29 12:39:55.265 GMT Standard Time INFO [3092:5824] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F22A90].
+2011-07-29 12:39:55.265 GMT Standard Time INFO [3092:5824] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F22A90].
+2011-07-29 12:40:15.484 GMT Standard Time INFO [6084:5528] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F22F60].
+2011-07-29 12:40:15.484 GMT Standard Time INFO [6084:5528] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F22F60].
+2011-07-29 12:40:46.671 GMT Standard Time INFO [5024:436] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F23B68].
+2011-07-29 12:40:46.671 GMT Standard Time INFO [5024:436] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F23B68].
+2011-07-29 12:41:04.218 GMT Standard Time INFO [4812:492] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E460].
+2011-07-29 12:41:04.218 GMT Standard Time INFO [4812:492] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E460].
+2011-07-29 12:41:36.171 GMT Standard Time INFO [6124:5848] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E170].
+2011-07-29 12:41:36.171 GMT Standard Time INFO [6124:5848] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E170].
+2011-07-29 12:42:53.812 GMT Standard Time INFO [5516:4532] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2AFD0].
+2011-07-29 12:42:53.812 GMT Standard Time INFO [5516:4532] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2AFD0].
+2011-07-29 12:43:34.562 GMT Standard Time INFO [5156:4580] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F22A10].
+2011-07-29 12:43:34.562 GMT Standard Time INFO [5156:4580] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F22A10].
+2011-07-29 12:44:03.781 GMT Standard Time INFO [5668:5316] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21C88].
+2011-07-29 12:44:03.781 GMT Standard Time INFO [5668:5316] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21C88].
+2011-07-29 12:44:29.062 GMT Standard Time INFO [4604:6128] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F226E0].
+2011-07-29 12:44:29.062 GMT Standard Time INFO [4604:6128] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F226E0].
+2011-07-29 12:44:48.421 GMT Standard Time INFO [4604:4552] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "56" was "700".
+2011-07-29 12:45:00.812 GMT Standard Time INFO [4604:4552] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "58" was "700".
+2011-07-29 12:45:00.812 GMT Standard Time INFO [4604:4552] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "57" was "700".
+2011-07-29 12:46:31.437 GMT Standard Time INFO [4336:5428] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F21CD8].
+2011-07-29 12:46:31.437 GMT Standard Time INFO [4336:5428] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F21CD8].
+2011-07-29 12:46:48.250 GMT Standard Time INFO [4336:4588] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "60" was "700".
+2011-07-29 12:46:58.328 GMT Standard Time INFO [5504:4896] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F239A8].
+2011-07-29 12:46:58.328 GMT Standard Time INFO [5504:4896] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F239A8].
+2011-07-29 12:47:14.046 GMT Standard Time INFO [5504:5372] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "62" was "700".
+2011-07-29 12:47:35.531 GMT Standard Time INFO [5504:5372] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "64" was "700".
+2011-07-29 12:47:35.531 GMT Standard Time INFO [5504:5372] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "63" was "700".
+2011-07-29 12:47:55.375 GMT Standard Time INFO [5504:5372] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "66" was "700".
+2011-07-29 12:47:55.375 GMT Standard Time INFO [5504:5372] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "65" was "700".
+2011-07-29 12:48:40.718 GMT Standard Time INFO [5176:4536] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2AFD0].
+2011-07-29 12:48:40.718 GMT Standard Time INFO [5176:4536] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2AFD0].
+2011-07-29 12:48:55.484 GMT Standard Time INFO [5176:2332] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "71" was "700".
+2011-07-29 12:50:04.859 GMT Standard Time INFO [1920:4612] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2AFD0].
+2011-07-29 12:50:04.875 GMT Standard Time INFO [1920:4612] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2AFD0].
+2011-07-29 12:50:23.718 GMT Standard Time INFO [1920:5156] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "73" was "700".
+2011-07-29 12:50:35.031 GMT Standard Time INFO [1920:5156] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "75" was "700".
+2011-07-29 12:50:35.031 GMT Standard Time INFO [1920:5156] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "74" was "700".
+2011-07-29 12:51:11.218 GMT Standard Time INFO [1920:5156] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "77" was "700".
+2011-07-29 12:51:11.218 GMT Standard Time INFO [1920:5156] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "76" was "700".
+2011-07-29 14:34:19.375 GMT Standard Time INFO [4384:5072] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1A6C8].
+2011-07-29 14:34:19.375 GMT Standard Time INFO [4384:5072] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1A6C8].
+2011-07-29 14:34:33.406 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "80" was "700".
+2011-07-29 14:34:45.203 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "81" was "700".
+2011-07-29 14:34:58.078 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "83" was "700".
+2011-07-29 14:34:58.078 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "82" was "700".
+2011-07-29 14:35:40.296 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "87" was "700".
+2011-07-29 14:35:40.296 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "86" was "700".
+2011-07-29 14:35:40.312 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "85" was "700".
+2011-07-29 14:35:40.312 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "84" was "700".
+2011-07-29 14:35:58.312 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "91" was "700".
+2011-07-29 14:35:58.328 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "90" was "700".
+2011-07-29 14:35:58.328 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "89" was "700".
+2011-07-29 14:35:58.328 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "88" was "700".
+2011-07-29 14:36:18.796 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "95" was "700".
+2011-07-29 14:36:18.812 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "94" was "700".
+2011-07-29 14:36:18.812 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "93" was "700".
+2011-07-29 14:36:18.812 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "92" was "700".
+2011-07-29 14:36:44.171 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "98" was "700".
+2011-07-29 14:36:44.171 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "97" was "700".
+2011-07-29 14:36:44.187 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "96" was "700".
+2011-07-29 14:37:02.000 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "102" was "700".
+2011-07-29 14:37:02.000 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "101" was "700".
+2011-07-29 14:37:02.000 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "100" was "700".
+2011-07-29 14:37:02.000 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "99" was "700".
+2011-07-29 14:37:31.468 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "106" was "700".
+2011-07-29 14:37:31.468 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "105" was "700".
+2011-07-29 14:37:31.484 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "104" was "700".
+2011-07-29 14:37:31.484 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "103" was "700".
+2011-07-29 14:45:49.093 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "110" was "700".
+2011-07-29 14:45:49.109 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "109" was "700".
+2011-07-29 14:45:49.109 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "108" was "700".
+2011-07-29 14:45:49.109 GMT Standard Time INFO [4384:5304] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "107" was "700".
+2011-07-29 14:45:53.984 GMT Standard Time INFO [4384:5588] api.base.ConnectionManager - Domain <SOAM>: A disconnection from the Middleware was sensed. The connection to "dev-apama:2312" was broken.
+2011-07-29 14:46:07.625 GMT Standard Time INFO [5728:5592] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2AFD0].
+2011-07-29 14:46:07.625 GMT Standard Time INFO [5728:5592] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2AFD0].
+2011-07-29 14:49:14.796 GMT Standard Time INFO [4236:5740] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E060].
+2011-07-29 14:49:14.796 GMT Standard Time INFO [4236:5740] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E060].
+2011-07-29 14:49:35.343 GMT Standard Time INFO [4236:5648] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "113" was "700".
+2011-07-29 14:50:03.156 GMT Standard Time INFO [5064:5928] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1AF80].
+2011-07-29 14:50:03.156 GMT Standard Time INFO [5064:5928] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1AF80].
+2011-07-29 14:50:19.046 GMT Standard Time INFO [5064:2392] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "116" was "700".
+2011-07-29 14:50:24.921 GMT Standard Time INFO [5064:2392] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "118" was "700".
+2011-07-29 14:50:24.937 GMT Standard Time INFO [5064:2392] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "117" was "700".
+2011-07-29 14:50:38.265 GMT Standard Time INFO [5064:2392] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "120" was "700".
+2011-07-29 14:50:38.265 GMT Standard Time INFO [5064:2392] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "119" was "700".
+2011-07-29 15:02:52.906 GMT Standard Time INFO [3300:6040] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F2AC58].
+2011-07-29 15:02:52.906 GMT Standard Time INFO [3300:6040] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F2AC58].
+2011-07-29 15:03:10.109 GMT Standard Time INFO [4744:1748] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F226E0].
+2011-07-29 15:03:10.109 GMT Standard Time INFO [4744:1748] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F226E0].
+2011-07-29 15:06:22.609 GMT Standard Time INFO [5960:4644] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F22640].
+2011-07-29 15:06:22.625 GMT Standard Time INFO [5960:4644] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F22640].
+2011-07-29 15:06:37.281 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "124" was "700".
+2011-07-29 15:06:50.625 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "126" was "700".
+2011-07-29 15:06:50.625 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "125" was "700".
+2011-07-29 15:07:02.265 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "128" was "700".
+2011-07-29 15:07:02.265 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "127" was "700".
+2011-07-29 15:07:16.421 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "130" was "700".
+2011-07-29 15:07:16.421 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "129" was "700".
+2011-07-29 15:07:56.093 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "135" was "700".
+2011-07-29 15:07:56.109 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "134" was "700".
+2011-07-29 15:07:56.109 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "133" was "700".
+2011-07-29 15:07:56.125 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "132" was "700".
+2011-07-29 15:07:56.125 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "131" was "700".
+2011-07-29 15:08:41.890 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "138" was "700".
+2011-07-29 15:08:41.890 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "137" was "700".
+2011-07-29 15:08:41.890 GMT Standard Time INFO [5960:760] api.base.BaseSession - Domain <Application> : The number of tasks received for the life of session "136" was "700".
+2011-07-29 15:09:55.156 GMT Standard Time INFO [5740:5172] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F1E060].
+2011-07-29 15:09:55.156 GMT Standard Time INFO [5740:5172] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F1E060].
+2011-07-29 15:10:43.750 GMT Standard Time INFO [5884:1152] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully opened handle to EGO [02F22C20].
+2011-07-29 15:10:43.750 GMT Standard Time INFO [5884:1152] api.base.EGOAPIWrapper - Domain <SOAM>: Successfully closed handle to EGO [02F22C20].
